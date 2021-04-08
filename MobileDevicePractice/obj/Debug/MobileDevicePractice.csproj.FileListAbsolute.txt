@@ -1,0 +1,6 @@
+C:\Users\p\RiderProjects\MobileDevicePractice\MobileDevicePractice\bin\Debug\MobileDevicePractice.exe
+C:\Users\p\RiderProjects\MobileDevicePractice\MobileDevicePractice\bin\Debug\MobileDevicePractice.pdb
+C:\Users\p\RiderProjects\MobileDevicePractice\MobileDevicePractice\obj\Debug\MobileDevicePractice.csprojAssemblyReference.cache
+C:\Users\p\RiderProjects\MobileDevicePractice\MobileDevicePractice\obj\Debug\MobileDevicePractice.csproj.CoreCompileInputs.cache
+C:\Users\p\RiderProjects\MobileDevicePractice\MobileDevicePractice\obj\Debug\MobileDevicePractice.exe
+C:\Users\p\RiderProjects\MobileDevicePractice\MobileDevicePractice\obj\Debug\MobileDevicePractice.pdb
